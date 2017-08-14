@@ -1,0 +1,17 @@
+Save File:                                                           1 of 2
+
+This is the save file window and is used to confirm exiting of the data
+entry screen.  The file name field is used for entering the name of the
+file that this data should be stored to.
+
+   From this window your have the following options availabe:
+
+      F1 - Select this option if you want to:
+           Have the file saved and then exit.
+
+      F2 - Select this option if you want to:
+           Exit without saving the file.
+                                                                    2 of 2
+
+      F10 - Select this option if you want to:
+           Continue editing the file.

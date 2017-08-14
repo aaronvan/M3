@@ -1,0 +1,16 @@
+Module Fault Alarm:           1 of 2
+
+When selected, Module Fault Alarm
+enables the MASTR III station to
+monitor RF module fault status.  The
+station reports the status of this
+fault to the GETC.  An RF module
+fault will cause the EDACS channel
+to take itself out of service.  The
+L7 LED on the GETC will blink when
+the channel is out of service.  The
+EDACS channel then checks itself
+periodically to see if the fault is
+                              2 of 2
+gone, and if it is, the channel puts
+itself back on-line automatically.

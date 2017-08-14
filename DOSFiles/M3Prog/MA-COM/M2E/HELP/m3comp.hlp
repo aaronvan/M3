@@ -1,0 +1,21 @@
+DSP Line Cancellation Pot:   1 of 2
+
+     The DSP Line Cancellation pot 
+is set to this value.  Numbers 
+between 0 and 255 are valid. 
+     This pot, used only in 2-wire 
+systems, cancels the control 
+shelf's line output audio from the 
+line input audio (this is a hybrid 
+adjustment).  Before being 
+subtracted from the contended 
+2-wire line, the line output audio 
+is attenuated according to the 
+DSP Line Cancellation Pot:   2 of 2
+
+value entered here.  A low value 
+corresponds to a low gain; a high 
+value corresponds to a high gain. 
+     For 2-wire tone remote 
+systems, set this pot to 75.  
+Otherwise, set it to zero. 

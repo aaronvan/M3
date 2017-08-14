@@ -1,0 +1,10 @@
+RF Simplex:                  1 of 1
+
+     If this is a simplex channel, 
+set this field to "YES".  A "NO" 
+will mean that this is a full 
+duplex channel.   
+     The only time this needs to 
+be set to Simplex is when the RF 
+transmit and receive frequencies 
+are the same. 

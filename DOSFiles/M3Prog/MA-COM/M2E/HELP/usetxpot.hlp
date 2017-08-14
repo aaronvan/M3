@@ -1,0 +1,20 @@
+Use Tx Pot:                  1 of 2
+
+     If you set this field to 
+"Yes", the Tx Pot will be set to 
+the value entered in the MCID Tx 
+Pot field during Morse Code ID 
+transmissions on this channel.  
+The MCID Tx Pot value only appears 
+when Tx Pot = "Yes" for at least 
+one channel. 
+     Otherwise, when this field is 
+set to "No", there will be no 
+change in the Tx Pot value during 
+Use Tx Pot:                  2 of 2
+
+Morse Code ID transmissions on 
+this channel. 
+     The value entered here is 
+only meaningful for System Module 
+firmware version 6.00 and above. 

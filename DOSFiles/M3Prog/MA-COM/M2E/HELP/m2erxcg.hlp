@@ -1,0 +1,25 @@
+Receive Channel Guard:       1 of 2
+
+     For no receiver Channel Guard 
+while this channel is active, 
+leave this space blank.  
+Otherwise, for tone channel guard, 
+enter a value between 67.0 and 
+210.7 Hz (there must be a decimal 
+point) to represent the CG 
+frequency.  Or, for digital 
+channel guard, enter one of the 
+valid CG codes (no decimal 
+point).  Examples of CG codes are 
+Receive Channel Guard:       2 of 2
+
+023, 047, 315.  Find other codes 
+in the Appendix of the Mastr IIE 
+and III Control Shelf programming 
+user guide (TQ3353).  
+     To erase a previously entered 
+channel guard , hold down the Ctrl 
+key, and press Backspace, or, 
+alternatively, press the Delete 
+key until all characters are 
+removed. 

@@ -1,0 +1,23 @@
+Line In Pot:                 1 of 2
+
+     The Line In pot is set to 
+this value.  Numbers between 0 and 
+255 are valid. 
+     This pot adjusts the gain on 
+the line input.  A low value 
+corresponds to low gain; a high 
+value corresponds to high gain. 
+     In DC Remote systems with the 
+DSP compression field (on the 
+Remote Options Screen) set to 
+"Disabled", this pot is set so 
+Line In Pot:                 2 of 2
+
+that nominal line input audio 
+results in output audio which is 
+at 3kHz deviation. 
+     In other systems this pot is 
+set to zero because the line audio 
+is either non-existent or is 
+processed through a different, DSP 
+board, path. 

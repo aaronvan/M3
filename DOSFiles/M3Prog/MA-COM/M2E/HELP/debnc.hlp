@@ -1,0 +1,10 @@
+Debounce Timer:               1 of 1
+
+This is the delay between the time a
+change in the FUT_IN line is
+detected and the time the System
+Module acts on that change.  This
+debounce is used to ignore momentary
+changes on the FUT_IN line.  This
+delay must be entered in 10 milli-
+second increments.

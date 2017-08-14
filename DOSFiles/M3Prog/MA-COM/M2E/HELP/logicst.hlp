@@ -1,0 +1,26 @@
+Logic Standby:               1 of 2
+
+     If Logic Standby should be
+enabled, set this field to
+"Enabled".  Selecting "Enabled"
+indicates the following functions
+will be restored upon power up:
+ 
+     Channel Guard Monitor 
+     Remote PTT 
+     Scan 
+     Priority Scan 
+     Aux Relay Settings 
+Logic Standby:               2 of 2
+
+     Morse Code ID
+     Main Receiver
+     2nd Receiver
+     External PTT
+     Voice Guard
+ 
+Note:  In general a DC Remote 
+station will powerup using the 
+powerup control current regardless 
+of what functions existed when the 
+power went out. 

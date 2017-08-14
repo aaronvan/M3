@@ -1,0 +1,25 @@
+Control Shelf Options:                                               1 of 2
+
+This is the Mastr IIE Control Shelf options window and is used to provide
+access to the programmable features of the Mastr IIE Control Shelf.  For
+more help on the individual control shelf options, please refer to the
+individual help for the specific option.
+
+Your options available from this screen are:
+
+F1 - Station.   Use to edit the station control type.
+
+F2. - Pots.     Use to define the PTT data.
+
+                                                                     2 of 2
+F3 - Pots.    Use to define the Potentiometer settings.
+
+F4 - Text.    Use to access the text window.  The text window lets you 
+              create a few lines of text to be stored in the disk file.
+
+F5 - Program. Program a control shelf with the currently displayed 
+              personality.
+
+F6 - Morse.   Use to define the Morse Code options.
+
+F7 - Remote.  Use to define the various Tone Remote Control options.

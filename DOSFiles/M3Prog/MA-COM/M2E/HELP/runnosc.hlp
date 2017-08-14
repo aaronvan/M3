@@ -1,0 +1,26 @@
+Continuous Running Oscillator 1 of 2
+
+This enables the Transmit
+synthesizer (not the PA) to be
+operational as soon as the station
+is powered up or reset, and prevents
+the synthesizer from being loaded at
+the beginning of each call.  This
+will reduce the time from PTT until
+data or voice is transmitted by
+removing the synthesizer load-lock
+sequence from the beginning of each
+transmission.  This feature will
+                              2 of 2
+only work with station software
+344A33078G18 or later.
+
+Note:  If Group 18 software is
+placed in a System Module with a
+19D903771G1 board in it, the
+Transmit LED will come on when the
+station is powered up and will stay
+on.  This is not a failure in the
+station hardware, and the PA is not
+being keyed unless there is an
+active call on the channel.

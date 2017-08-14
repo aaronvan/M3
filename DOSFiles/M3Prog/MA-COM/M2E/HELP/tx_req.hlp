@@ -1,0 +1,10 @@
+Transmit Required:           1 of 1
+
+     If you set this field to 
+"YES", the ID will only be 
+transmitted if there has been a 
+PTT transmission on this channel 
+since the last ID. 
+     The value entered here is 
+only meaningful for System Module 
+firmware version 6.00 and above. 

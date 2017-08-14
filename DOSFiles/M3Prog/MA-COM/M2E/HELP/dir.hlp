@@ -1,0 +1,9 @@
+Change Directory:             1 of 1
+
+This field is used to specify the
+desired or target path for a change
+directory.  This field will accept
+any valid DOS path identifier,
+restricted only to 32 characters.
+This field will not accept the name
+of a path that does not exist.

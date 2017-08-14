@@ -1,0 +1,13 @@
+Delete Personality:                                                  1 of 1
+
+This is the delete personality window.  The purpose of this window is to
+solicit the name of the personality to delete from disk.
+   WARNING: This operation will permanently remove the file.
+
+   From this window your options are:
+
+      F1 - Select this option if you want to:
+           Proceed with this operation.
+
+      F2 - Select this option if you want to:
+           Abort this operation.

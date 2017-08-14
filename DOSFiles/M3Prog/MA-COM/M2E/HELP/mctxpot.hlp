@@ -1,0 +1,10 @@
+MCID Tx Pot:                 1 of 1
+
+     The value entered here will 
+be loaded in the Tx Pot during 
+Morse Code ID transmission if the 
+Tx Pot field for the active 
+channel is set to "Yes". 
+     This value is only meaningful 
+for System Module firmware version 
+6.00 and above. 

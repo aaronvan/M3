@@ -1,0 +1,12 @@
+ID Channel Enable:           1 of 1
+
+     To allow the transmit of the
+Morse Code ID while this channel
+is active, set this field to
+"Yes".  The Morse Code ID will be
+transmitted on the specified chan-
+nel. If it is desired to route the
+Morse Code ID audio to the Line Out-
+put, refer to 188D5496 System Module
+Schematic for instructions on adding
+R112.

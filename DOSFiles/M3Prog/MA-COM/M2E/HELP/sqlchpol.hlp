@@ -1,0 +1,18 @@
+Squelch Pot:                 1 of 2
+
+     This field is only meaningful 
+for System Module firmware version 
+12.00 and above. 
+     If the manual pot on the 
+front of the station is to be used 
+to set the squelch, set this field 
+to "Manual".  If the digital pot 
+on the Interface Board 
+(19D902975G1) is to be used, set 
+this field to "Digital". 
+     The Interface Board must be 
+Squelch Pot:                 2 of 2
+
+at least a rev "A" board before 
+this field can be set to 
+"Digital". 

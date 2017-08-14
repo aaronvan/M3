@@ -1,0 +1,8 @@
+Channel Guard Encode:        1 of 1
+
+     If Channel Guard encoding
+should be allowed on this key, set
+this field to "Yes".
+     Channel Guard encoding can 
+occur only if both the active key 
+and the channel allow them. 

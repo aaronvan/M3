@@ -1,0 +1,12 @@
+Text Window:                                                         1 of 1
+
+This is the text window and is used to define a few lines of text regarding
+the current personality.  The text typed in this window will be stored on
+disk with the personality for future reference.  There are three display
+fields on the screen:  Software Version, EEPROM Version, and Last Date
+Programmed.  These fields are filled in only when this personality is
+written to, or read from the control shelf.  The programmer will solicit
+the software version number from the control shelf and store it in the
+Software Version field.  It will update the EEPROM Version number with the
+software version number that last reset the control shelf to ROM defaults.
+It will also capture the date and store it in the personality.

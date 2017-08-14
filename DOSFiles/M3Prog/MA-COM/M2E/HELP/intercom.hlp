@@ -1,0 +1,43 @@
+Intercom:                    1 of 4
+
+     Setting this field to "Yes" 
+will enable Intercom.  The 
+characteristics of intercom are 
+different depending on the version 
+of System Module firmware you 
+have. 
+     For versions 6.00 or 7.00, 
+receiver audio is the only thing 
+heard on the local speaker unless 
+Intercom is enabled.  When 
+Intercom is enabled, audio from 
+Intercom:                    2 of 4
+
+Line In will be heard on the local 
+speaker when there is no receiver 
+audio present (receiver audio has 
+priority).  This audio from Line 
+In may present itself during a 
+Remote PTT or during the use of a 
+remote's Intercom button.  Note 
+that to enable Intercom, the 
+Intercom Modifications in the 
+Maintenance Manual must also be 
+completed.  In addition, the two 
+Intercom:                    3 of 4
+
+fields that appear when Intercom 
+is enabled are meaningless for 
+versions 6.00 and 7.00. 
+     For versions 8.00 and above, 
+the two fields that appear below 
+Intercom when it is set to "Yes" 
+provide flexibility in deciding 
+how Intercom should work.  See the 
+help screens of these fields for 
+more information. 
+     For versions 6.00 and below, 
+Intercom:                    4 of 4
+
+the value entered here is 
+meaningless. 

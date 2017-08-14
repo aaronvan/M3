@@ -1,0 +1,8 @@
+Morse Code Wait Interval:    1 of 1
+
+     Enter a number from 0 to 10 
+seconds (tenths of a second are 
+allowed).  The controller will 
+wait this number of seconds after 
+all PTTs unkey before transmitting 
+the ID on this channel. 

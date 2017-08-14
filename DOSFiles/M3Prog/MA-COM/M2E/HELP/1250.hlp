@@ -1,0 +1,16 @@
+1250:                        1 of 2
+
+     Toggling this field will 
+switch between two modes: 
+       1) The 1250 and 1350 tones 
+          will control the AUX1 
+          relay only. 
+       2) The tones will also 
+          control the AUX2 relay.  
+          In this mode, one relay 
+          will turn on when the 
+          other turns off (one and 
+          only one relay will be 
+1250:                        2 of 2
+
+          on all the time).  

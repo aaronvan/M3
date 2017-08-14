@@ -1,0 +1,8 @@
+Second Receiver:              1 of 1
+
+The Mastr III station signalling
+is different depending on the type
+of second receiver used.  This field
+indicates which type of second
+receiver, MII or MIII, is connected
+to the base station.

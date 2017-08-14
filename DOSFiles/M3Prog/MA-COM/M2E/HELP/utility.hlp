@@ -1,0 +1,23 @@
+Utility:                                                             1 of 2
+
+This is the utility screen.  This screen provides access to some of the 
+more infrequently used function in the control shelf programmer.  These
+functions include changing communications ports, maintenance functions,
+directories, extensions, deleting personalities, and printing personalities
+to a line printer.  Use the cursor keys to move the reverse video bar over
+the desired personality in preparation for F5 (Delete) and F6 (Print).
+
+From this window, your available options are:
+
+F1 - Port.    Change the port to use for programming the control shelf.
+
+                                                                     2 of 2
+F2 - Maint.  Information on available maintenance routines.
+
+F3 - Dir.    Change your current directory.
+
+F5 - Delete. Delete/Erase a personality from the disk.
+
+F6 - Print.  Prints the personalities to the printer, screen, or a file.
+
+F7 - Ext.    Change the current extension.

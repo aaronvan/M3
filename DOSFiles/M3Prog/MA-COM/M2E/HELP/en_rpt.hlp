@@ -1,0 +1,11 @@
+Enable Repeater:             1 of 1
+
+     Enter the DTMF code to enable 
+the repeater.  Valid characters 
+are 0 - 9, A - D, #, and *. 
+     This code enables the 
+repeater only for the channel that 
+is active when the DTMF code is 
+sent.  If the channel is changed, 
+it may be necessary to send the 
+code again. 

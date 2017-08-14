@@ -1,0 +1,16 @@
+Disable Length:              1 of 2
+
+     Enter a number from 30 to 360 
+in increments of 30.  The number 
+entered here determines the length 
+of time in seconds that scan will 
+be disabled when the station is 
+told to disable it.  At the end of 
+the delay, the station will 
+automatically start scanning 
+again. 
+     This field is only meaningful 
+for System Module Firmware Version 
+Disable Length:              2 of 2
+
+12 and above. 

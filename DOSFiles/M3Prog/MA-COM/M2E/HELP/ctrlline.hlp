@@ -1,0 +1,9 @@
+Control Line:                1 of 1
+
+     If your remote is two-wire, 
+set this field to "2 Wire".  
+Otherwise, set it to "4 Wire". 
+     If set to "2 Wire", the 
+Sidetone field will be set to 
+"No", and access to Sidetone will 
+be denied. 

@@ -1,0 +1,12 @@
+Change Directory:                                                    1 of 1
+
+This is the change directory window.  The purpose of this window is to
+solicit the name of the directory to which the change is to be made.
+
+From this window your options are:
+   
+   F1 - Select this option if you want to:
+        Proceed with the change.
+
+   F2 - Select this option if you want to:
+        Abort this procedure.

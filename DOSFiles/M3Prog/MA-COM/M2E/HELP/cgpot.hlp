@@ -1,0 +1,11 @@
+Channel Guard Pot:           1 of 1
+
+     Enter a value between 0 and 
+255.  This value will be the CG 
+Potentiometer setting while this 
+channel is active. 
+     This pot is used to set the 
+CG deviation level.  A small value 
+corresponds to a low deviation and 
+a high value corresponds to a high 
+deviation. 

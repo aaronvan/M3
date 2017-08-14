@@ -1,0 +1,15 @@
+Tx Meter On Level:            1 of 2
+
+This value will be used, along with
+the Tx Meter Off Level, to report a
+Power Amp output power failure to
+the GETC.  The output power will be
+considered "good" when the TX Meter
+reads a value higher than the On
+value.  The output power will be
+considered "failed" when the Tx
+Meter reads a value lower than the
+Off value.  The Tx Meter can be read
+on the Utility Handset or MASTRUTL
+                              2 of 2
+or MSEdit.

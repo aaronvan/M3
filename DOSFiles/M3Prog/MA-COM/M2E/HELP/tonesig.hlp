@@ -1,0 +1,9 @@
+Tone Signalling:              1 of 1
+
+This is a toggle field that is used
+to indicate whether or not tone
+signalling is present, and if so,
+whether Type 90 or DTMF decode tone
+signalling is desired.  There are
+three possible selections: None,
+Type 90 Decode and DTMF Decode.

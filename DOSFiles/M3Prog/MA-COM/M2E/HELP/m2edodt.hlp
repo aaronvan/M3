@@ -1,0 +1,18 @@
+Drop Out Delay Timer:        1 of 2
+
+     If you do not desire a Drop
+Out Delay while this channel is
+active, leave this space blank or
+enter a zero.  Otherwise, enter a
+value between 0 and 10.0 seconds.
+This entry will represent the
+length of the delay, and it may be
+entered in hundredths of a second.
+     The Drop Out Delay Timer clocks
+the time after a PTT unkeys.  The
+transmitter remains keyed during
+Drop Out Delay Timer:        2 of 2
+
+the Drop Out Delay and will unkey 
+after the delay unless another PTT 
+occurs within the delay.  

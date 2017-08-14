@@ -1,0 +1,17 @@
+Output To:                    1 of 2
+
+This is a toggle field that is used
+to identify where the printed out-
+put should go.  There are three
+available options:  "Printer",
+"Screen", and "File".  Using the TAB
+key, toggle this field until your
+selection is displayed and press F1
+to generate the print.  Choose
+"Printer" if you want the printed
+output to go to the printer.  Select
+"Screen" if you want the output to
+                              2 of 2
+go to the screen, and "File", if you
+want the output generated in an
+ASCII file format.

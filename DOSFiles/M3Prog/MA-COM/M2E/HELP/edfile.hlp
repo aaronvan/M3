@@ -1,0 +1,11 @@
+File to edit:                 1 of 1
+
+This field is used to enter the name
+of the file to be changed/edited.
+This is an eight character alpha-
+numeric field and will accept any
+valid DOS file name provided the
+file exists in the current direct-
+oty.  Once a name is entered, select
+F1 to change the file or F2 to
+abort the operation.

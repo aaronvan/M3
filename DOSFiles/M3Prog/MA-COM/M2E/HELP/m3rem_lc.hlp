@@ -1,0 +1,35 @@
+Remote/Local Intercom:       1 of 3
+
+     This field allows the 
+selection of Remote and Local 
+Intercom.  The selections are: 
+ 
+     REM/LOC - Remote and Local.  
+     REM     - Remote only. 
+     LOC     - Local only. 
+     None    - Neither. 
+ 
+     When Remote Intercom is 
+enabled, audio from Line In during 
+Remote/Local Intercom:       2 of 3
+
+a Remote PTT will be heard on the 
+local speaker unless receiver 
+audio is present.  When present, 
+receiver audio is always heard on 
+the local speaker.  If Remote 
+Intercom is disabled, receiver 
+audio is the only thing heard on 
+the local speaker during Remote 
+PTTs. 
+     When Local Intercom is 
+enabled, the audio from a person 
+Remote/Local Intercom:       3 of 3
+
+keying the local mic will be 
+routed to Line Out.  Therefore, 
+the person will be heard at a 
+remote.  When Local Intercom is 
+disabled, a person at the local 
+mic cannot communicate with a 
+person at a remote. 

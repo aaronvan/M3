@@ -1,0 +1,24 @@
+Channel Data Screen:                                                 1 of 2
+
+This is the primary data entry screen when defining a personality.  A
+personality consists of one or more channels.
+
+To save the current personality to disk, press the F10 key.  You will be
+prompted to save the file.
+
+Your options available from this screen are:
+
+F2 - Insert.    Use this key to insert a channel.  Position the cursor on
+                the respective line and press F2.  The current channel and
+                all channels following will be shifted down one line.
+                                                                     2 of 2
+
+F3 - Remove.   Use this key to remove a channel.  Position the cursor on
+               the line of the channel you wish to delete and select this
+               key.  The current channel will be deleted and all subsequent
+               channels will be shifted up to fill in the gap.
+
+F7 - Text.     Use to access the text window.  The text window lets you
+               create a few lines of text to be stored in the disk file.
+
+F8 - More.     Use this key to view additional functions.

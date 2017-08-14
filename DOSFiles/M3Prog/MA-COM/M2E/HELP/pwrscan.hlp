@@ -1,0 +1,6 @@
+Scan on Power Up:            1 of 1
+
+     If the station should begin 
+scanning when it is reset or 
+turned on, set this field to 
+"YES".  Otherwise, set it to "NO". 

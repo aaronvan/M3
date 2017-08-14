@@ -1,0 +1,13 @@
+Communication Port Selection:                                        1 of 1
+
+This is the comm port window.  The purpose of this window is to 
+define/select the communications port you wish to use for radio programming
+purposes.  After entering the correct port:
+
+   From this window your options are:
+
+      F1 - Select this option if you want to:
+           Save the selection.
+
+      F2 - Select this option if you want to:
+           Abort this operation.

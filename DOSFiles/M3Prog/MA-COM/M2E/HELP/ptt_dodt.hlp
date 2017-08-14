@@ -1,0 +1,8 @@
+Drop Out Delay:              1 of 1
+
+     If a Drop Out Delay should be
+allowed on this key, set this
+field to "Yes".
+     DODs can occur only if both 
+the active key and the channel 
+allow them. 

@@ -1,0 +1,13 @@
+Read Radio:                                                          1 of 1
+
+This window is used to confirm the read radio operation.  Selecting F1 will
+cause the radio to send its personality up to be stored in the file
+name specified.
+
+From this window your available options are:
+
+   F1 - Select this option if you want to:
+        Read the radio into the personality.
+
+   F2 - Select this option is you want to:
+        Abort this operation.

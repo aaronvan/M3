@@ -1,0 +1,18 @@
+Line Out Pot:                1 of 2
+
+     The Line Out pot is set to 
+this value.  Numbers between 0 and 
+255 are valid. 
+     This pot adjusts the line out 
+level.  A low value corresponds to 
+a low line out level, and a high 
+value corresponds to a high line 
+out level. 
+     Normally, in non-remote 
+systems, this is set to zero.  In 
+remote systems this is set such 
+Line Out Pot:                2 of 2
+
+that 3 KHz of unsquelched receiver 
+audio results in 0 dBm of line 
+output audio. 

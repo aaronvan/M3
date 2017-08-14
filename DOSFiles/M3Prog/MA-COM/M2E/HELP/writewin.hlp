@@ -1,0 +1,12 @@
+Program Radio:                                                       1 of 1
+
+This window is used to confirm the program radio operation.  Selecting F1
+will cause the program to download the file identified into the radio.
+
+From this window your available options are:
+
+   F1 - Select this option if you want to:
+        Program the radio with the personality specified.
+
+   F2 - Select this option if you want to:
+        Abort this operation.

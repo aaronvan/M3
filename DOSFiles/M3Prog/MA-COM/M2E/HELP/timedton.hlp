@@ -1,0 +1,43 @@
+Timed Tone Remote:            1 of 4
+
+This option is only meaningful for
+EPROM version 15.00 and above.
+
+To help eliminate tone falsing on a
+Tone Remote station, setting this
+field to ENABLE will allow the user
+to input the minimum and maximum
+times for detecting the SECURIT
+tones.
+
+By default, the Control Module firm-
+                              2 of 4
+ware processes tones the moment that
+they are reported by the DSP.  The
+timers establish a "window" in which
+the tones must be decoded.
+
+The SECURIT minimum timer is started
+when the DSP first reports it's
+presence.  If a FUNCTION tone is
+reported before the SECURIT minimum
+time has elapsed, another SECURIT/
+FUNCTION sequence is required for an
+action to be taken.  If the function
+                              3 of 4
+tone is reported after the SECURIT
+maximum timer has elapsed, no action
+will be taken and a No tone is
+required before further processing
+of TONE REMOTE tones are permitted.
+If the FUNCTION tone falls within
+the "window" allowed by the SECURIT
+minimum and maximum times, the
+SECURIT tone function list is
+executed.  If the SECURIT tone is
+followed by a valid function tone,
+the function list will be executed.
+                              4 of 4
+Otherwise, a valid SECURIT tone is
+required before executing another
+function.

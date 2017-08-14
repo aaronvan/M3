@@ -1,0 +1,16 @@
+Transmit Audio Pot:          1 of 2
+
+     The Tx Audio pot is set to 
+this value.  Numbers between 0 and 
+255 are valid. 
+     This pot is used to set the 
+transmitter deviation limit.  A 
+low value corresponds to a low 
+deviation limit, and a high value 
+corresponds to a high deviation 
+limit. 
+     Normally this is set such 
+that maximum input results in 4.5 
+Transmit Audio Pot:          2 of 2
+
+kHz of transmitter audio. 

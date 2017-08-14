@@ -1,0 +1,23 @@
+Repeater Pot:                1 of 2
+
+     The Repeater potentiometer is 
+set to this value.  Numbers 
+between 0 and 32767 are valid. 
+     This pot is used to set the 
+transmitter deviation.  A low 
+value corresponds to a low 
+deviation, and a high value 
+corresponds to a high deviation. 
+     Normally, in systems that 
+repeat, this is set such that 3 
+kHz of unsquelched receiver audio 
+Repeater Pot:                2 of 2
+
+results in 3 kHz of transmitter 
+audio. 
+     In other systems it is 
+necessary to send nominal audio 
+into a fixed-gain input path like 
+the local microphone.  This pot is 
+then used to set the desired 
+nominal transmitter deviation. 

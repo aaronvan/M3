@@ -1,0 +1,10 @@
+GETC:                         1 of 1
+
+If the GETC is not attached to the
+multiple receiver choose "None".
+If the GETC is attached to the
+multiple receiver, choose which
+mode of operation it will use,
+"Trunked" for Trunked or "Conv VG"
+for Conventional Voice Guard (Non-
+Trunked Voice Guard).

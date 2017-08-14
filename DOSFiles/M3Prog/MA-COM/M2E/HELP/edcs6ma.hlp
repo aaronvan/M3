@@ -1,0 +1,9 @@
++6 mA Detect:                1 of 1
+
+     If the base station's +6 mA 
+current detector is required to 
+keep a channel open, set this 
+field to "Yes".  If some other 
+mechanism other than the base 
+station's detector is being used, 
+set this field to "No". 

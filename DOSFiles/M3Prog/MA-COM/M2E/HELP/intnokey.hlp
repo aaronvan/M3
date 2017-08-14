@@ -1,0 +1,24 @@
+No Key:                      1 of 2
+
+     This field determines what 
+will be heard on the local speaker 
+when a remote is not keyed.  
+Receiver audio will always be 
+heard when it is present, but this 
+field's value determines what will 
+be heard in the absence of 
+receiver audio.  When this field 
+is set to "Yes", audio from Line 
+In will be heard.  This allows the 
+use of the Intercom button present 
+No Key:                      2 of 2
+
+on some remotes.  Note that the 
+Intercom Modifications in the 
+Maintenance Manual must also be 
+completed.   
+     When this field is set to 
+"No", only receiver audio is heard 
+on the local speaker. 
+     This field is only meaningful 
+for versions 8.00 and above. 

@@ -1,0 +1,25 @@
+ID With Keys:                1 of 2
+
+     If this field is set to "NO",
+the controller will wait until all
+PTTs unkey before transmitting the
+Morse Code ID on this channel.
+     If you set this field to
+"Yes", any ID on this channel will
+be transmitted immediately when 
+the Interval Timer expires even if 
+a PTT is keyed.  The ID will not 
+affect the regular station 
+operation for the PTT.  Therefore, 
+ID With Keys:                2 of 2
+
+the state of the transmitter and 
+the audio routing will not be 
+changed as a result of the ID 
+transmission.  In addition, when 
+this field is set to "YES", the Tx 
+Pot field will be set to "No", and 
+access to Tx Pot will be denied. 
+     The value entered here is 
+only meaningful for System Module 
+firmware version 6.00 and above. 

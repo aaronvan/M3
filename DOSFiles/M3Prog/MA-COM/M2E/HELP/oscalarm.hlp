@@ -1,0 +1,13 @@
+Backup Ref Osc Alarm:         1 OF 1
+
+When selected, Backup Ref Osc Alarm
+enables the MASTR III station to
+revert back to its internal ref osc
+under synthesizer alarm conditions.
+The station attempts to use the
+internal ref osc when the RX
+synthesizer goes out of lock.  The
+station will continue to use the
+internal reference until the alarm
+condition is corrected and the
+station is reset.

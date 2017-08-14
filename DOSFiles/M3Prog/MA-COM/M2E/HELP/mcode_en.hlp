@@ -1,0 +1,13 @@
+Morse Code ID:               1 of 1
+
+     If a Morse Code ID is to be
+transmitted, set this field to
+"Enabled".  Selecting "Disabled"
+will cause the remaining fields on
+the screen to be inaccessible.  The
+Morse Code ID will be transmitted on
+the specified channel.  If it is
+desired to route the Morse Code ID
+audio to the Line Output, refer to
+188D5496 System Module Schematic for
+instructions on adding R112.

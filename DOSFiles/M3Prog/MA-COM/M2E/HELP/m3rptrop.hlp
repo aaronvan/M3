@@ -1,0 +1,43 @@
+Repeater Option:             1 of 4
+
+     Up to three selections are 
+available: 
+ 
+   - Community:  Use this 
+     selection if your station is 
+     set up with a Community 
+     Repeater Panel.  This 
+     selection is only available 
+     if the station is a repeater. 
+ 
+   - Back-to-Back:  If you are 
+Repeater Option:             2 of 4
+
+     connecting stations in a 
+     Back-to-Back configuration, 
+     set this field to 
+     "Back-to-Back".  Radio 
+     Control Base Stations use 
+     this type of connection. 
+          If one of the stations 
+     in the Back-to-Back 
+     configuration is a simplex 
+     station, the System Board 
+     firmware must be Group 14 or 
+Repeater Option:             3 of 4
+
+     higher (344A3307G14). 
+          Carrier Control Timeouts 
+     should be disabled for 
+     External PTTs when using the 
+     Back-to-Back option.  Also, 
+     to get Drop Out Delay 
+     Timeouts, DODTs must be 
+     enabled for External PTTs.  
+     CCTs and DODTs are enabled or 
+     disabled for External PTTs on 
+     the PTT Options screen. 
+Repeater Option:             4 of 4
+
+ 
+   - None:  No Repeater Option. 

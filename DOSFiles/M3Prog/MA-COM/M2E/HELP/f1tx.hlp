@@ -1,0 +1,19 @@
+F1 Tx:                       1 of 2
+
+     Ordinarily, transmitting on 
+channel 1 from a remote will cause 
+the station to switch to channel 1 
+before transmitting (unless 
+already on channel 1).  The 
+station will behave in this manner 
+with this field set to "Channel 
+1".  However, with this field set 
+to "Selected", a command to 
+transmit on channel 1 will cause a 
+transmit on the current channel 
+F1 Tx:                       2 of 2
+
+without automatically switching to 
+channel 1.  This mode allows one 
+to select any channel with DTMF 
+and then transmit on it. 

@@ -1,0 +1,9 @@
+Circulator:                  1 of 1
+
+     If the station is to detect 
+Circulator faults, set this field 
+to "Enabled".  Otherwise, set this 
+field to "Disabled". 
+     The value entered here is 
+only meaningful for System Module 
+firmware version 12.00 and above. 

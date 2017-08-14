@@ -1,0 +1,17 @@
+Control Station Window:                                              1 of 2
+
+This is the Control Station window.  Using this window, you may select the
+default type of control station to be used when creating a new personality.
+To select the control station type, position the reverse video bar over 
+your selection.  Pressing the F7 (Capacity) key will cause the frequency
+capacity field to toggle for the selected type.  Pressing F7 will have no
+effect when Type 90 is selected, since only 1 channel is allowed.  You may
+exit the window by pressing F10.  The selected type will be saved to disk
+so that the program will remember it the next time it is initiated.
+
+From this window, your available options are:
+
+                                                                     2 of 2
+
+   F7 - Capacity.  Toggle the Frequency capacity.
+                   Note:  Not active when Type 90 or Simulcast is selected.

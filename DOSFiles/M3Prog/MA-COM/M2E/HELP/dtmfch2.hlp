@@ -1,0 +1,10 @@
+Channels:                    1 of 1
+
+     To the left of this field is
+a number that represents the
+channel to which this field
+corresponds.  Enter the DTMF code
+that will be used to switch to the
+channel.  Valid characters are 0 -
+9, A - D, #, and *.   Up to three
+characters may be entered.

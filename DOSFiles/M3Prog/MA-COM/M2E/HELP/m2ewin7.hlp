@@ -1,0 +1,18 @@
+Channel Data Screen:                                                 1 of 2
+
+This is the primary data entry screen when defining a personality.  A
+personality consists of one or more channels.
+
+To save the current personality to disk, press the F10 key.  You will be
+prompted to save the file.
+
+Your options available from this screen are:
+
+F4 - Addtnl.   Use to define additional channel parameters.
+
+F7 - Text.     Use to access the text window.  The text window lets you
+                                                                     2 of 2
+
+               create a few lines of text to be stored in the disk file.
+
+F8 - More.     Use this key to view additional functions.

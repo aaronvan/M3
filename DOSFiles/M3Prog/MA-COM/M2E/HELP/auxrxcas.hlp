@@ -1,0 +1,20 @@
+Aux Rx CAS:                  1 of 2
+
+     This field is only meaningful 
+for System Board Firmware Version 
+13 and above. 
+     The latest harness for the 
+Auxillary Receiver connects the 
+Aux Receiver's CAS to the System 
+Module's input called RUS IN.  If 
+this field is set to "Enabled", 
+the Aux Rx audio will be routed to 
+Line Out only when the Aux Rx is 
+enabled and CAS is active.  If 
+Aux Rx CAS:                  2 of 2
+
+this field is set to "Disabled", 
+CAS will have no effect, and the 
+Aux Rx audio will be always be 
+routed to Line Out when the Aux Rx 
+is enabled.                   

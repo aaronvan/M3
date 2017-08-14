@@ -1,0 +1,6 @@
+CNI (Conv Network Interface): 1 of 1
+
+When this field is set to yes, High
+Speed Data audio routing is disabled
+and Channel Guard is routed to and
+from the GETC.

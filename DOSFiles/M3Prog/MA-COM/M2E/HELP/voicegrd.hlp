@@ -1,0 +1,32 @@
+Voice Guard:                 1 of 3
+
+     Three selections are 
+available: 
+ 
+   - Enc/Dec:  Use this selection 
+     if your station is set up 
+     with Voice Guard 
+     Encrypt/Decrypt.  This 
+     setting is only meaningful 
+     for System Module firmware 
+     version 6.00 and above. 
+   - End/End:  Use this selection 
+Voice Guard:                 2 of 3
+
+     if your station is set up 
+     with Voice Guard End-to-End.  
+     This setting is only 
+     meaningful for System Module 
+     firmware version 8.00 and 
+     above. 
+   - None:     No Voice Guard. 
+ 
+If this field is set to Enc/Dec or 
+End/End, the Control Line field is 
+set to "4 Wire", and access to the 
+Voice Guard:                 3 of 3
+
+field is denied.  In addition, for 
+a two channel station, the Aux 
+Function (on the Options Screen) 
+is not available. 

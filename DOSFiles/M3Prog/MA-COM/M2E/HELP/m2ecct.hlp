@@ -1,0 +1,16 @@
+Carrier Control Timer:       1 of 2
+
+     If you do not want Carrier 
+Control timeouts, leave this field 
+blank.  Otherwise, enter a value 
+between 0 and 600 representing the 
+number of seconds before a Carrier 
+Control timeout. 
+     The Carrier Control Timer 
+clocks how long someone is using 
+the transmitter.  If a person 
+remains keyed longer than the time 
+entered in this field, they will 
+Carrier Control Timer:       2 of 2
+
+lose the use of the transmitter. 

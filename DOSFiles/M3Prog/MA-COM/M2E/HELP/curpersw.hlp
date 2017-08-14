@@ -1,0 +1,34 @@
+Current Personalities:                                               1 of 3
+
+Note: Through out this program and the associated documentation, the term
+personality is used.  Personality is used generically to refer to the 
+information that is stored in the radio that makes a particular radio
+different from all similar radios.  Using this program, that information
+can be created/deleted/modified and stored on disk for later reference.
+
+This is the main window for the Mastr IIe Control Shelf programmer.  At the
+top of the window is the title "Current Personalities".  To the direct
+right of the title is the default extension.  Below the title, the current
+directory is displayed.  Whenever the program is initiated, the currently
+defined personalities residing in the current directory with the extension
+                                                                     2 of 3
+selected, will be displayed on the screen.  A reverse video bar indicates
+the default personality for some of the available options.  This bar can be
+positioned by using the cursor keys to move it around.
+
+From this window, your available options are:
+
+   F1 - Setup.   Set your personality defaults.
+
+   F2 - Change.  Change/edit an existing personality file.
+
+   F3 - Utility. Change comm port entry, enter maintenance, change 
+                 directory, delete a personality, print a personality or 
+                                                                     3 of 3
+                 change extensions.
+
+   F4 - New.     Create a new personality.
+
+   F5 - Progrm.  Program a control shelf with the personality selected.
+
+   F6 - Read.    Read the personality out of the control shelf.

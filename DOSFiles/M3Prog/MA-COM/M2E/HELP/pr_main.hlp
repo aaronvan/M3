@@ -1,0 +1,13 @@
+                             Print Personality
+
+     This is the print personality window.  The purpose of this window is
+to solicit the information required before performing the print operation.
+In this window, you should specify the personality to print and where the
+printout should go.
+
+From this window your options are:
+
+   F1 - Executes the print.
+
+   F2 - Aborts the operation.
+                                                                   Page 1/1

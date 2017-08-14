@@ -1,0 +1,17 @@
+Remote:                       1 of 2
+
+   Set this field to choose the type
+of remote keying which is used in
+your system.  When "Tone" is
+selected, the station will detect
+tones on the Line Input.  When "DC"
+is selected, the station current
+detectors are enabled.  When
+"Type 1" is selected, the Base
+station's Type 1 Key input is
+required to keep a channel open.
+Type 1 keying requires a ground
+                              2 of 2
+closure connected to Pin 1 of P110
+on the station interface board or
+P5 pin 16 on the station backplane.

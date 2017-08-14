@@ -1,0 +1,16 @@
+Low Pa Power Alarm:           1 of 2
+
+When selected, the Low PA Power
+Alarm enables the MASTR III station
+to monitor PA output power.  The
+station reports the status of this
+fault to the GETC.  Low PA output
+power will cause the channel to take
+itself out of service.  The L6 LED
+on the GETC will blink when the
+channel is out of service. The EDACS
+channel then checks itself period-
+ically to see if the fault is gone,
+                              2 OF 2
+and if it is gone, the channel puts
+itself back on-line automatically.

@@ -1,0 +1,13 @@
+Back to Back Repeater:       1 of 1
+
+     If you are connecting
+repeaters in a back to back
+configuration, set this field to
+"Yes".  Radio Control Base
+Stations use this type of 
+connection. 
+     To get Drop Out Delay 
+Timeouts with a back to back 
+repeater, DODTs must be enabled 
+with External PTTs (see PTT 
+Options screen). 

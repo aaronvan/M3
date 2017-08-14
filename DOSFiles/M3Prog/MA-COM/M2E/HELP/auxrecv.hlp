@@ -1,0 +1,12 @@
+Auxiliary Receiver:          1 of 1
+
+     When this control current is
+active, the 2nd Receiver will be
+set according to what is placed in
+this field.  If the 2nd Receiver
+is to be muted, set this field to
+"Off".  If it is to be unmuted,
+set this field to "On".  If this
+control current is not to change
+the 2nd Receiver, choose "NC" (No 
+Change). 

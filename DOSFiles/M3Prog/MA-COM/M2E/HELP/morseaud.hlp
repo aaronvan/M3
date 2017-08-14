@@ -1,0 +1,11 @@
+Route Audio to Line Out:     1 of 1
+
+     If this field is set to
+"Yes", the ID will be routed to
+line out during Morse Code ID 
+transmissions on this channel.  
+This routing is done in addition 
+to the regular transmit. 
+     The value entered here is 
+only meaningful for System Module 
+firmware version 6.00 and above. 

@@ -1,0 +1,11 @@
+Comm Port ID:                 1 of 1
+
+The purpose of this field is to
+identify the communications port to
+use for programming the radio.
+There are only two ports available
+for this purpose: COM1 and  COM2.
+Enter a 1 here to select COM1 and a
+2 to select COM2.  This field will
+not accept a comm port ID of a port
+that does not exist.

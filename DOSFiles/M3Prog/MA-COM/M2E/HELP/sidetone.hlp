@@ -1,0 +1,17 @@
+Sidetone:                     1 of 2
+
+     Setting this field to "Yes"
+will enable Sidetone (also called
+loopback).  When Sidetone is
+enabled and there is no receiver
+audio present, the station will
+route the audio from Line In to
+Line Out.  This is helpful if
+several remotes are connected in
+parallel.  Sidetone allows the
+remotes to hear each other.
+     The value entered here is
+Sidetone:                     2 of 2
+
+only meaningful for System Module
+firmware version 6.00 and above.

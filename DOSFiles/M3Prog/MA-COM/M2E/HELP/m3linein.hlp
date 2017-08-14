@@ -1,0 +1,16 @@
+Line In Pot:                 1 of 2
+
+     The Line In pot is set to 
+this value.  Numbers between 0 and 
+255 are valid. 
+     This pot adjusts the gain on 
+the line input.  A low value 
+corresponds to low gain; a high 
+value corresponds to high gain. 
+     This pot is usually set to 
+zero (for MIII) because the line 
+audio is either non-existent or is 
+processed through a different, DSP 
+Line In Pot:                 2 of 2
+
+board, path. 

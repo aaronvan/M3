@@ -1,0 +1,7 @@
+Scan Ena/Dis:                1 of 1
+
+     If a remote is to be used to
+enable and disable Scan, set this
+field to "Yes".  A 1050 Hz tone
+will enable it, and a 1150 Hz tone 
+will disable it. 

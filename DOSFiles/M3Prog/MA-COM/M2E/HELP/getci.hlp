@@ -1,0 +1,13 @@
+GETC Interface:               1 of 1
+
+This is a toggle field that is used
+to indicate the type of GETC inter-
+face, if any.  There are three
+possible selections:  None, Trunked,
+and Conventional.  Selecting None
+indicates the GETC interface is
+disabled.  Selecting Trunked
+indicates the GETC interface is
+trunked, and selecting Conventional
+indicates the GETC interface is
+conventional.

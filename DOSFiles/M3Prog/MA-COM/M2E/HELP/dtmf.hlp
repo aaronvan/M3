@@ -1,0 +1,17 @@
+DTMF:                        1 of 2
+
+     In addition to using your 
+remote, you may control the 
+station by sending DTMF tones on 
+the line to the station.  Setting 
+this field to "Enabled" will cause 
+a function key to appear named 
+"DTMF".  A DTMF screen may be 
+accessed through this function key 
+where you may specify the DTMF 
+codes to control the station. 
+     Setting this field to 
+DTMF:                        2 of 2
+
+"Disable" will not allow control 
+of the station through DTMF. 

@@ -1,0 +1,16 @@
+Simulcast Data Screen:                                               1 of 2
+
+A Simulcast Station is programmed as a voting system with a 1950Hz voting
+tone.  Only one channel is allowed.  In addition, the station is programmed
+so audio will be routed as a four-wire DC remote station (with DSP 
+Compressor enabled).  In general, all other options normally programmable
+for other stations (ie. Morse Code, Battery Alarm) are disabled.
+
+Your options available from this screen are:
+
+F1 - Station.  Use to edit the station control type.
+
+F7 - Text.     Use to access the text window.  The text window lets you
+                                                                     2 of 2
+
+               create a few lines of text to be stored in the disk file.

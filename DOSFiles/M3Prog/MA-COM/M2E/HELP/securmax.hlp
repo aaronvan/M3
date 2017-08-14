@@ -1,0 +1,28 @@
+Securit Tone Max Time:        1 of 2
+
+This timer is valid only with EPROM
+version 15.00 and above.  The value
+of this timer determines the maximum
+time that a SECURIT tone must be
+present before it is consistently
+processed by the Control Shelf.  The
+DSP decode time for function tones
+(24) is a factor in calculating the
+actual time decoded.  For example,
+if the maximum timer is 150ms, a
+SECURIT tone whose duration is 150ms
+                              2 of 2
+will be consistently decoded as a
+valid SECURIT tone.  A SECURIT tone
+which is between 150 to 174 ms will
+sometimes be decoded as a valid
+SECURIT tone:  and a SECURIT tone
+whose duration is more than 174 ms
+will not be decoded as a valid
+SECURIT tone; and a SECURIT tone
+whose duration is more than 174 ms
+will not be decoded as a valid
+SECURIT tone.  The level of SECURIT
+tone has a small effect on the
+                              3 of 3
+timers operation.

@@ -1,0 +1,7 @@
+Alarm Options Window:                                                1 of 1
+
+This screen provides access to the Alarm Options.  It provides access to
+the Low Pa Power Alarm, Module Fault Alarm, and Backup Reference Oscillator
+Alarm.  The Backup Reference Oscillator Alarm is available only if 
+External Reference Oscillator was selected.  For help with these options
+please see the individual help screens.

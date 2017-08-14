@@ -1,0 +1,13 @@
+Change/Edit File:
+
+This is the change file window.  The purpose of this window is to solicit
+the name of the personality to change.  Once the name is entered press F1
+to continue.
+
+   From this window your options are:
+
+      F1 - Select this option if you want to:
+           Change the file selected.
+
+      F2 - Select this option if you want to:
+           Discontinue this procedure.

@@ -1,0 +1,31 @@
+Control Station:              1 of 3
+
+This screen is used to select the
+default control station type to use
+when creating new personalities.
+The reverse video bar indicates the
+selected control station type.  This
+bar can be positioned by using the
+cursor keys to move it up or down.
+Pressing the F7 or F6 (Capacity)keys
+will cause the frequency capacity
+field to increase or decrease for 
+the selected type.
+Control Station:              2 of 3
+  
+Pressing F7 will have no effect 
+when Type 90, Simulcast or Trunked
+is selected, since only 1 channel
+is allowed.You may exit the window
+by pressing F10.The selected type
+will be saved to disk so that the
+program will remember it the next
+time it is initiated.
+F7 - Capacity.Toggle the Frequency
+capacity upwards.
+F6 - Capacity.Toggle the Frequency
+Control Station:              3 of 3
+
+capacity downwards.
+Note:  Not active when Type 90 or
+Trunked or Simulcast is selected.

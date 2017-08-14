@@ -1,0 +1,7 @@
+Battery Alarm On Time:       1 of 1
+
+     Enter the duration of the
+battery standby alarm tone.  Valid
+entries are between 0 and 1.0
+seconds and may be entered in
+tenths of a second increments. 

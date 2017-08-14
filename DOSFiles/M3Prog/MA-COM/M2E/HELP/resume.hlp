@@ -1,0 +1,20 @@
+Resume After Disable:        1 of 2
+
+     With this field set to "Yes", 
+any disabling of scan will be 
+temporary.  The length of time 
+scan is disabled is set by the 
+Disable Length field that appears 
+when this field is set to "Yes".  
+At the end of the delay, the 
+station automatically starts 
+scanning again. 
+     If this field is set to "No" 
+and scan is ever disabled, the 
+Resume After Disable:        2 of 2
+
+station will keep it disabled 
+until told to enable it. 
+     This field is only meaningful 
+for System Module Firmware Version 
+12 and above. 

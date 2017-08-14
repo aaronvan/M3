@@ -1,0 +1,8 @@
+Carrier Control Timer:       1 of 1
+
+     If Carrier Control timeouts
+should be allowed on this key, set
+this field to "Yes".
+     CC timeouts can occur only if 
+both the active key and the 
+channel allow them. 

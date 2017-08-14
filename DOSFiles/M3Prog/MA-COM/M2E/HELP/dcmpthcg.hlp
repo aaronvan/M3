@@ -1,0 +1,12 @@
+DSP Compressor Threshold:    1 of 1
+
+     The DSP Compressor Threshold 
+(CG) pot is set to this value for 
+channels with Channel Guard.  
+Numbers between 0 and 32767 are 
+valid. 
+     This pot adjusts the maximum 
+signal level appearing at the 
+output of the compressor. 
+     To disable the compressor, 
+enter 32767. 

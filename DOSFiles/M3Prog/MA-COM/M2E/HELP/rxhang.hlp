@@ -1,0 +1,23 @@
+Receiver Hang Delay:         1 of 2
+
+     The number of seconds entered 
+here will determine the Receiver 
+Hang Delay.  Valid entries are 0 
+to 5 seconds.   
+     With a hang delay, the 
+station will delay scanning after 
+receiving a scanned call or after 
+transmitting.  The station will 
+stay on the last receiver and will 
+not scan other receivers until the 
+delay is over.  However, there is 
+Receiver Hang Delay:         2 of 2
+
+one exception to this rule.  If 
+Priority Scan is enabled, the 
+priority receiver is periodically 
+checked for activity during the 
+delay. 
+     This field is only meaningful 
+for System Module Firmware Version 
+12 and above. 

@@ -1,0 +1,11 @@
+Battery Alarm:               1 of 1
+
+     If battery alarm should be
+enabled, set this field to
+"Enabled". The Battery Alarm tone
+will be transmitted on the active
+channel.  If it is desired to route
+the Battery Alarm tone audio to the
+Line Ouput, refer to 188D5496
+System Module Schematic for
+instructions on adding R112.

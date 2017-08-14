@@ -1,0 +1,8 @@
+BandWidth:                    1 of 1
+
+Select the receiver bandwidth,
+either 25kHz or 12.5kHz, for this
+channel.  This feature available
+only for Group 18.0 or higher System
+Module code and Group 7, Group 9,
+or Group 11 IF Modules.

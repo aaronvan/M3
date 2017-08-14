@@ -1,0 +1,5 @@
+VSQ CG Detect:                1 of 1
+
+When this field is enabled, DTMF and
+Channel Guard will be decoded
+simultaneously.

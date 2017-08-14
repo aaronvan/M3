@@ -1,0 +1,11 @@
+TX On Hold Tone:              1 of 1
+
+This function is only meaningful for
+EPROM version 15.00 and above.  On
+Tone Remote stations, enabling this
+field will require the presence of a
+HOLD tone following the function
+tone before the transmitter is
+keyed.  If disabled, a REMOTE PTT
+will key the transmitter on a
+FUNCTION tone.

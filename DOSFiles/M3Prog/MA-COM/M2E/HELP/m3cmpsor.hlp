@@ -1,0 +1,22 @@
+DSP Compressor Pot:          1 of 2
+
+     The DSP Compressor pot is set 
+to this value.  Numbers between 0 
+and 32767 are valid. 
+     This pot adjusts the gain on 
+the DSP line input. A low value 
+corresponds to low gain; a high 
+value corresponds to high gain. 
+     Note that this pot is a gain 
+in the linear region of the DSP 
+Compressor.  It determines the 
+level of line input voltage which 
+DSP Compressor Pot:          2 of 2
+
+will lead to compression. 
+     For remote systems this pot 
+should be so that nominal line 
+input audio results in output 
+audio which is at 3 kHz deviation. 
+     For other systems this pot 
+should be set to zero. 

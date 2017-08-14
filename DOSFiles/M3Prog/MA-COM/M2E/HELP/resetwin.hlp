@@ -1,0 +1,12 @@
+Reset Control Shelf:                                                 1 of 1
+
+This window is used to confirm the reset control shelf operation.  
+Selecting F1 will cause the control shelf to reset the Eeprom defaults.
+
+From this window your available options are:
+
+   F1 - Select this option if you want to:
+        Reset the control shelf defaults.
+
+   F2 - Select this option if you want to:
+        Abort this operation.

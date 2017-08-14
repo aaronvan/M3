@@ -1,0 +1,7 @@
+Meter:                        1 of 1
+
+This is a toggle field that is used
+to indicate whether or not the
+metering function is enabled.
+Using the TAB key, this field will
+toggle between Enabled and Disabled.

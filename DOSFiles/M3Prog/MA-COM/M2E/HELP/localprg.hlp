@@ -1,0 +1,9 @@
+Local Programming Timeout:    1 of 1
+
+if the user defined time period
+entered here is exceeded without
+activity on the data port then the
+Multiple Receiver will return to the
+Remote Programming Mode (rear port).
+If activity is detected, the timer
+will reset.

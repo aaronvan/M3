@@ -1,0 +1,20 @@
+Current Personalities:        1 of 2
+
+This is the main window for the
+Mastr IIe Control Shelf programmer.
+At the top of the window is the
+title "Current Personalities".  To
+the direct right of the title is the
+default extension.  Below the title,
+the current directory is displayed.
+Whenever the program is initiated,
+the currently defined personalities
+residing in the current directory
+with the extension selected, will be
+                              2 of 2
+displayed on the screen.  A reverse
+video bar indicates the default per-
+sonality for some of the available
+options.  This bar can be positioned
+by using the cursor keys to move it
+around.

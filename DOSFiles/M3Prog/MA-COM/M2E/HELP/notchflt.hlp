@@ -1,0 +1,8 @@
+RX Audio 2175 Hz Notch Filer: 1 of 1
+
+If you need 2175 Hz filtered from
+your Receiver audio which is going
+out of the Line Output then set this
+field to Enable.  This field is only
+meaningful for Group 19 or higher
+System Module code.

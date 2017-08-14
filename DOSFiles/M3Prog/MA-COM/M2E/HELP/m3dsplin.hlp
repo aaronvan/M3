@@ -1,0 +1,20 @@
+DSP Line In Pot:             1 of 2
+
+     The DSP Line In pot is set to 
+this value.  Numbers between 0 and 
+255 are valid. 
+     In non-remote systems this 
+should be set to zero. 
+     Otherwise, this pot is used 
+to adjust the signal level 
+entering the DSP.  It should be 
+set so, under all operating 
+conditions, the level does not 
+overdrive the analog-to-digital 
+DSP Line In Pot:             2 of 2
+
+converter on the DSP board (U5).  
+A low value corresponds to low 
+gain on the line input, and a high 
+value corresponds to high gain on 
+the line input.   

@@ -1,0 +1,29 @@
+- 11 mA Control Current:     1 of 3
+
+     This current can be used in 
+two ways: 
+       1) Rx Ch 2.  In this mode 
+          audio will come from the 
+          2nd Receiver only.  To 
+          enable this mode, set 
+          this field to "Aux 
+          Recvr". 
+       2) Repeat Disable with CG 
+          Monitor.  Audio from 
+          channel 1 of the Main 
+- 11 mA Control Current:     2 of 3
+
+          Receiver will be 
+          received but not 
+          repeated.  Channel Guard 
+          Monitor will also be 
+          active.  For this mode 
+          set this field to "Rep 
+          Dis/CG Mon".  This mode 
+          is only allowed if the 
+          Rpt field (on the 
+          Channel Data Screen) for 
+          at least one channel is 
+- 11 mA Control Current:     3 of 3
+
+          a "Yes". 

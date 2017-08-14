@@ -1,0 +1,21 @@
+Function Tone Minimum Time:  1 of 2
+
+This timer is valid only with EPROM
+version 15.00 and above.  The value
+of this timer determines the minimum
+time that a FUNCTION tone must be
+present before it is processed by
+the Control Shelf.  The DSP decode
+time (24 to 40ms) is a factor in
+calculating the timer value.  To
+delay 32ms before recognizing a
+FUNCTION tone, the minimum DSP
+decode time is first subtracting
+                              2 of 2
+from the desired delay which yields
+8ms.  Divide this result by 2 (2ms
+timer resolution) to determine the
+correct timer value (4).  Note that
+if the DSP decode time is 40ms, the
+actual minimum time will be 48ms
+(40ms DSP decode + 8ms timer).

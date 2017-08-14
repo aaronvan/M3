@@ -1,0 +1,35 @@
+Priority Scan:               1 of 3
+
+     Priority Scan is available 
+for System Module Firmware Version 
+12 and above.  A modified PSLM 
+(Priority Search-Lock Monitor) 
+card is also needed. 
+     This field toggles between 
+three selections: 
+        - Disabled. 
+        - Fixed.  Priority Scan is 
+          enabled with a fixed 
+          priority channel.  The 
+Priority Scan:               2 of 3
+
+          priority channel is set 
+          to the channel entered 
+          in the Priority Chan 
+          field and does not 
+          change. 
+        - Selected.  Priority Scan 
+          is enabled with a 
+          selectable priority 
+          channel.  Initially, the 
+          priority channel is set 
+          to the channel entered 
+Priority Scan:               3 of 3
+
+          in the Priority Chan 
+          field.  However, when a 
+          remote or some other 
+          means of control selects 
+          a channel, that channel 
+          becomes the priority 
+          channel. 

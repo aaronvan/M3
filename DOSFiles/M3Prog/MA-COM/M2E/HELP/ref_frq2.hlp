@@ -1,0 +1,13 @@
+Reference:                   1 of 1
+
+     Enter a reference frequency 
+between 5.0 and 18.0 for the old
+synthesizer or between 5.0 and 19.2
+for the new ADF4252 synthesizer.
+This number must be evenly divisible
+by the channel separation of the
+transmit frequency and the channel 
+separation of the receive 
+frequency (see the help screens 
+for the transmit and receive 
+frequencies). 

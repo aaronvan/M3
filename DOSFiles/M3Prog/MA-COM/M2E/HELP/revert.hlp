@@ -1,0 +1,26 @@
+Revert to Last Chan:         1 of 2
+
+     This field determines on 
+which channel the station stays 
+immediately after scan is 
+disabled.  There are two choices: 
+ 
+  -  Used.  Switch to the last 
+     channel that was used to 
+     receive a scanned call.  
+     Also, if no scanned call was 
+     received since the channel 
+     was changed with a remote or 
+Revert to Last Chan:         2 of 2
+
+     other form of control, stay 
+     on the channel selected by 
+     remote. 
+  -  Selected.  Always go to the 
+     last channel that was 
+     selected by a remote or other 
+     form of control. 
+ 
+     This field is only meaningful 
+for System Module Firmware Version 
+12 and above. 

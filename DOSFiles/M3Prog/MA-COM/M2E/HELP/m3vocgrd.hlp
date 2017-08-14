@@ -1,0 +1,26 @@
+Voice Guard:                 1 of 2
+
+     MASTR III Stations with Voice 
+Guard should have System Module 
+firmware version 12.00 and above. 
+     Three selections are 
+available: 
+ 
+   - Enc/Dec:  Use this selection 
+     if your station is set up 
+     with Voice Guard 
+     Encrypt/Decrypt. 
+   - End/End:  Use this selection 
+Voice Guard:                 2 of 2
+
+     if your station is set up 
+     with Voice Guard End-to-End. 
+   - None:     No Voice Guard. 
+ 
+If this field is set to Enc/Dec or 
+End/End, the Control Line field is 
+set to "4 Wire", and access to the 
+field is denied.  In addition, for 
+a two channel station, the Aux 
+Function (on the Options Screen) 
+is not available. 

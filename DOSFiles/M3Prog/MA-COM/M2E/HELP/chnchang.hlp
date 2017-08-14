@@ -1,0 +1,11 @@
+ID on Channel Change:        1 of 1
+
+     If this field is set to
+"Yes", the ID will be transmitted
+when a channel change results in 
+this channel being active.  The ID 
+is transmitted on this channel 
+shortly after the change. 
+     The value entered here is 
+only meaningful for System Module 
+firmware version 6.00 and above. 

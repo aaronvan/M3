@@ -1,0 +1,28 @@
+E & M Signalling:             1 of 3
+
+This option allow you to select the
+type of E&M signalling.  Selecting
+STD will enable E&M keying of the
+station.  An E&M (+48 V) signal on
+the DC control lines will key the
+station as a remote.  The DC Current
+Detection Circuit detects the
+presence of +48 V signaling as a
++11mA current.  When STD is enabled,
+the station then executes a "Channel
+1 - Remote PTT" which then normally
+                              2 of 3
+keys the transmitter and routes the
+audio from the Line Input to the
+transmitter.  When "Type 1" is
+selected, the station is keyed
+remotely using a contact closure to
+ground.  When this option is
+selected and Pin 1 of P110 on the
+station interface boad or P5 pin 16
+on the station backplane is grounded
+the station executes a "Channel 1 -
+Remote PTT" which routes the audio
+from the Line Input to the
+                              3 of 3
+transmitter.

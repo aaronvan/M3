@@ -1,0 +1,19 @@
+Voice Guard Encrypt Decrypt: 1 of 2
+
+     To enable Voice Guard Encrypt 
+Decrypt, set this field to "Yes". 
+     If this field is set to 
+"Yes", the Control Line field will 
+be set to "4 Wire", and access to 
+the field will be denied.  Also, 
+the Intercom field will be set to 
+"No". 
+     In addition, when this field 
+is set to "Yes" for a two channel 
+station, the Aux Function (on the 
+Voice Guard Encrypt Decrypt: 2 of 2
+
+Options Screen) is not available. 
+     The value entered here is 
+only meaningful for System Module 
+firmware version 6.00 and above. 

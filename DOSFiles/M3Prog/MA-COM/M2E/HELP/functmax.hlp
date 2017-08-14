@@ -1,0 +1,21 @@
+Function Tone Max Time:       1 of 2
+
+This timer is valid only with EPROM
+version 15.00 and above.  The value
+of this timer determines the maximum
+time that a FUNCTION tone can be
+present and still be processed by
+the Control Shelf.  The DSP decode
+time(24 to 40ms) is a factor in
+calculating the timer value.  To
+calculate a 48ms maximum time, the
+minimum DSP decode time is first
+subtracted from the desired delay
+                              2 of 2
+which yields 24ms.  Divide this
+result by 2 (2ms timer resolution)
+to determine the correct timer value
+(12).  Note that if the DSP decode
+time is 40ms, the actual maximum
+time will be 64ms (40ms DSP decode +
+24ms timer).

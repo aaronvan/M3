@@ -1,0 +1,9 @@
+2175 Hz Detect:              1 of 1
+
+     If the base station's 2175 Hz 
+hold tone detector is required to 
+keep a channel open, set this 
+field to "Yes".  If some other 
+mechanism other than the base 
+station's detector is being used, 
+set this field to "No". 

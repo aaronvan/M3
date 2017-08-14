@@ -1,0 +1,12 @@
+Extension:                    1 of 1
+
+This field is used to enter the
+default file name extension.  This
+extension will be displayed at the
+top of the current personalities
+screen and is used as a "selector"
+in which personalities should be
+displayed on the screen.  Once the
+extension has been entered, select
+F1 to perform the change or F2 to
+abort.

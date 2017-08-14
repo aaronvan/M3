@@ -1,0 +1,24 @@
+- 6 mA Control Current:      1 of 2
+
+     This current can be used in 
+two ways: 
+       1) Rx Ch 1.  In this mode 
+          audio will only come 
+          from channel 1 of the 
+          Main Receiver.  To 
+          enable this mode, set 
+          this field to "Main 
+          Recvr". 
+       2) Repeat Disable.  Audio 
+          from channel 1 of the 
+- 6 mA Control Current:      2 of 2
+
+          Main Receiver will be 
+          received but not 
+          repeated.  For this mode 
+          set this field to "Rep 
+          Dis".  This mode is only 
+          allowed if the Rpt field 
+          (on the Channel Data 
+          Screen) for at least one 
+          channel is a "Yes". 
