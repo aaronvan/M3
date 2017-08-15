@@ -1,4 +1,4 @@
-# serialX = device [parameter:value]
+serialX = device [parameter:value]
 
 device can be: dummy | modem | nullmodem | directserial
 parameter is: irq
@@ -12,6 +12,6 @@ serial2=dummy
 serial3=disabled
 serial4=disabled
 
-An example of how to configure an actual serial port for I/O use:
+# An example of how to configure an actual serial port for I/O use:
 
-serial1=directserial realport:com1
+# serial1=directserial realport:com1
